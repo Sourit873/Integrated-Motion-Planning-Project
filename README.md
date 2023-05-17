@@ -1,4 +1,4 @@
-# Integrated-Motion-Planning-Project
+## Integrated-Motion-Planning-Project
 Welcome to the Motion Planning Integration repository! This project combines C-Space analysis, Rapidly Expanding Random Tree (RRT), and Potential Field algorithms for efficient robot motion planning in various workspaces.
 
 ### Project Overview
