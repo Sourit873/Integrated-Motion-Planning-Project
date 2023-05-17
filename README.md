@@ -1,38 +1,41 @@
 # Integrated-Motion-Planning-Project
 Welcome to the Motion Planning Integration repository! This project combines C-Space analysis, Rapidly Expanding Random Tree (RRT), and Potential Field algorithms for efficient robot motion planning in various workspaces.
 
-Project Overview
+## Project Overview
 The goal of this project is to develop a comprehensive solution for robot motion planning by integrating different algorithms. It encompasses three key components: C-Space analysis, RRT, and Potential Field pathfinding.
 
-Features
-C-Space analysis: Generates C-Space for a 2-DOF planar robot arm with obstacles of different shapes and sizes. Provides visualizations of both Cartesian and C-space representations.
-RRT algorithm: Finds a feasible path from the start to goal points in a rectangular workspace with obstacles. Generates a roadmap and presents the final path.
-Potential Field method: Navigates through a 2D workspace with obstacles using attractive and repulsive fields. Optimizes field constants to discover efficient paths from the start to goal points.
-Usage
+## Features
+- C-Space analysis: Generates C-Space for a 2-DOF planar robot arm with obstacles of different shapes and sizes. Provides visualizations of both Cartesian and C-space representations.
+- RRT algorithm: Finds a feasible path from the start to goal points in a rectangular workspace with obstacles. Generates a roadmap and presents the final path.
+- Potential Field method: Navigates through a 2D workspace with obstacles using attractive and repulsive fields. Optimizes field constants to discover efficient paths from the start to goal points.
+
+## Usage
 To utilize this project, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/motion-planning-integration.git
-Install the necessary dependencies: [List the dependencies and their installation commands]
-Run the main program: [Provide the command or instructions to run the program]
-Explore the generated results and visualizations.
-Examples and Results
+1. Clone the repository: git clone https://github.com/your-username/motion-planning-integration.git
+2. Install the necessary dependencies: [List the dependencies and their installation commands]
+3. Run the main program: [Provide the command or instructions to run the program]
+4. Explore the generated results and visualizations.
+
+## Examples and Results
 This section demonstrates the output and results obtained from running the project. It includes screenshots, figures, or GIFs showcasing the following:
 
-C-Space generation with obstacle representation.
-RRT-generated roadmap and the resulting path from start to goal points.
-Potential Field paths with varying attractive and repulsive field constants.
-Contributing
+- C-Space generation with obstacle representation.
+- RRT-generated roadmap and the resulting path from start to goal points.
+- Potential Field paths with varying attractive and repulsive field constants.
+
+## Contributing
 Contributions are welcome! If you find any bugs, have enhancements or new features to propose, please submit an issue or a pull request.
 
-License
+## License
 [Specify the license under which the project is distributed]
 
-Acknowledgements
+## Acknowledgements
 [List any acknowledgements or references to other resources or projects that were helpful during development]
 
-Contact
-Sourit Saha
-sourits20@iitk.ac.in
+## Contact
+Sourit Saha\\
+sourits20@iitk.ac.in\\
 souritsaha2001@gmail.com
 
 Enjoy exploring and using the Motion Planning Integration project!
