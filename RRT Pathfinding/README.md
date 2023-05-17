@@ -1,8 +1,8 @@
-Rapidly Expanding Random Tree (RRT) Pathfinding
+## Rapidly Expanding Random Tree (RRT) Pathfinding
 
 This directory contains the code and files for implementing Rapidly Expanding Random Tree (RRT) pathfinding algorithm in a rectangular workspace with obstacles.
 
-In this project, we aim to find a feasible path from a given start point to a goal point using the RRT algorithm. The workspace is defined as a rectangular region, and it includes three or more obstacles of different shapes and sizes.
+In this project, we aim to find a feasible path from a given start point to a goal point using the RRT algorithm. The workspace is defined as a rectangular region, and it includes three or more obstacles of different shapes and sizes. 
 
 The program generates a set of random points starting from the initial point and expands a tree structure by connecting these points in a branching manner. The algorithm explores the workspace by iteratively generating feasible points in random directions with a fixed step length.
 
