@@ -9,3 +9,7 @@ The program defines attractive and repulsive potential field functions. The attr
 By running the code in this directory, you will be able to visualize the workspace with obstacles, mark the start and goal points, and observe the final paths generated using the Potential Field method. The program provides several figures that showcase the workspace with obstacles and the resulting paths from the initial point to the goal point.
 
 Feel free to explore the code and associated files to understand the Potential Field pathfinding process and experiment with different values of the constants in the attractive and repulsive fields.
+
+### Note
+
+The codes are wtitten in MATLAB. Save all the `.m` files in one directory and run the `main.m` file to get the output.
