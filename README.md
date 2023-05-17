@@ -12,9 +12,9 @@ The goal of this project is to develop a comprehensive solution for robot motion
 ### Usage
 To utilize this project, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your-username/motion-planning-integration.git
-2. Install the necessary dependencies: [List the dependencies and their installation commands]
-3. Run the main program: [Provide the command or instructions to run the program]
+1. Clone the repository: git clone https://github.com/your-username/Integrated-Motion-Planning-Project.git
+2. Install the necessary dependencies.
+3. Run the main program.
 4. Explore the generated results and visualizations.
 
 ### Examples and Results
@@ -27,17 +27,12 @@ This section demonstrates the output and results obtained from running the proje
 ### Contributing
 Contributions are welcome! If you find any bugs, have enhancements or new features to propose, please submit an issue or a pull request.
 
-### License
-[Specify the license under which the project is distributed]
-
-### Acknowledgements
-[List any acknowledgements or references to other resources or projects that were helpful during development]
-
 ### Contact
 Sourit Saha
 
 sourits20@iitk.ac.in
 
 souritsaha2001@gmail.com
+
 
 Enjoy exploring and using the Motion Planning Integration project!
