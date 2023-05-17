@@ -12,5 +12,5 @@ Feel free to explore the code and associated files to understand the Potential F
 
 ### Note
 
--The codes are wtitten in MATLAB. Save all the **`.m`** files in one directory and run the **`main.m`** file to get the output.
--Comment and Uncomment the different obstacles in the file **`generate_obstacles.m`** to get the output for different obstacle spaces.
+- The codes are wtitten in MATLAB. Save all the **`.m`** files in one directory and run the **`main.m`** file to get the output.
+- Comment and Uncomment the different obstacles in the file **`generate_obstacles.m`** to get the output for different obstacle spaces.
