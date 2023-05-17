@@ -9,3 +9,7 @@ The program utilizes suitable lengths for the robot arm's links and provides vis
 By running the code in this directory, you will be able to visualize the robot arm, the obstacles in the workspace, and observe the resulting C-Space plot. This visualization aids in understanding the configurations of the robot arm that are feasible and the potential collisions with the obstacles.
 
 Feel free to explore the code and associated files to gain insights into the C-Space generation process for the 2 DOF planar robot arm.
+
+### Note
+
+The code is written in Python but in Jupyter notebook.
