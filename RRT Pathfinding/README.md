@@ -12,4 +12,5 @@ Feel free to explore the code and associated files to understand the RRT pathfin
 
 ### Note
 
-The code is written in Python.
+- The code is written in Python.
+- Comment and Uncomment the different obstacles in the sections `obstacles where path is found, Set #:` to get the output for different obstacle spaces.
