@@ -1,6 +1,8 @@
-This directory contains the code and files for generating the C-Space for a 2 Degree of Freedom (2 DOF) planar robot arm.
+## C-Space Generation for 2 DOF Planar Robot Arm
 
-The purpose of this assignment is to develop a program that generates the C-Space representation for the robot arm, considering obstacles of various shapes, sizes, and colors within the workspace.
+This directory contains the code and files for generating the C-Space for a 2 Degree of Freedom (2 DOF) planar robot arm. 
+
+The purpose of this assignment is to develop a program that generates the C-Space representation for the robot arm, considering obstacles of various shapes, sizes, and colors within the workspace. 
 
 The program utilizes suitable lengths for the robot arm's links and provides visualizations of both the Cartesian space (x, y) and the C-Space (θ1 vs. θ2). The links of the robot arm can be represented as straight lines or rectangles, based on the chosen implementation.
 
